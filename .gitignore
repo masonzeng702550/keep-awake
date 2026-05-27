@@ -9,3 +9,6 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
+
+# Local-only push instructions (not part of the published repo)
+PUSH_TO_GITHUB.md
