@@ -1,0 +1,11 @@
+# Runtime state written by the helper scripts
+claude_keep_awake.pid
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+*.swp
+.vscode/
+.idea/
