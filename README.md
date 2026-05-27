@@ -24,7 +24,7 @@ power-saving. No app to install, no permanent setting changed.
 
 ```bash
 # Clone, then copy into your Claude Code skills directory
-git clone https://github.com/<your-username>/keep-awake.git
+git clone https://github.com/masonzeng702550/keep-awake.git
 cp -r keep-awake ~/.claude/skills/keep-awake
 
 # macOS only: make the shell helper executable
@@ -115,7 +115,7 @@ MIT — see [LICENSE](LICENSE).
 
 ```bash
 # 複製專案後，放進 Claude Code 的 skills 目錄
-git clone https://github.com/<你的帳號>/keep-awake.git
+git clone https://github.com/masonzeng702550/keep-awake.git
 cp -r keep-awake ~/.claude/skills/keep-awake
 
 # 僅 macOS：給 shell 腳本執行權限
